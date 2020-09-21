@@ -1,6 +1,8 @@
 # ToDolist-JavaScript
 Based Java Script Projects
-<hr>
+<hr></hr> 
+
+
 ![App](proje.gif)
 
 
